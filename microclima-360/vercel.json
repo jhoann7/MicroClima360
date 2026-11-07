@@ -3,11 +3,11 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "services": {
     "backend": {
-      "root": "backend",
+      "root": "microclima-360/backend",
       "framework": "fastapi"
     },
     "frontend": {
-      "root": "frontend",
+      "root": "microclima-360/frontend",
       "framework": "vite"
     }
   },
