@@ -1,0 +1,7 @@
+Dados reais sincronizados por correspondencia exata dos horarios registrados.
+Periodo: 2026-08-12 08:25:00 a 2026-09-10 07:20:00 (Brazil Standard Time, conforme cabecalho original).
+Registros simultaneos: 8340; intervalo 5 minutos.
+Colunas B/C/D dos arquivos originais: Date-Time, Temperature (C), RH (%).
+Arquivos de origem: PASTO, SECUNDARIA e PRIMARIA_10_09_2026.xlsx.
+Importe o CSV pela tela Importar dados do aplicativo.
+Nenhuma interpolacao foi feita.

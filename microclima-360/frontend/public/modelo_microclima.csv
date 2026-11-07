@@ -1,0 +1,4 @@
+timestamp,temp_pasto,temp_secundaria,temp_primaria,rh_pasto,rh_secundaria,rh_primaria
+2026-07-23T12:00:00,34,30,27,52,68,76
+2026-07-23T12:05:00,34.2,30.1,27.2,51,67,75
+2026-07-23T12:10:00,34.4,30.3,27.3,50,66,74
