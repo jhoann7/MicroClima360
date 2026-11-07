@@ -3,7 +3,8 @@
   "services": {
     "backend": {
       "root": "microclima-360",
-      "framework": "fastapi"
+      "framework": "fastapi",
+      "entrypoint": "backend.app.main:app"
     },
     "frontend": {
       "root": "microclima-360/frontend",
